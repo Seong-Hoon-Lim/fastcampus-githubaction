@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="dev.be.fastcampus.githubaction.FastcampusGithubactionApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-28T09:05:39" hostname="SeongHoonui-MacBookPro.local" time="0.335">
+<testsuite name="dev.be.fastcampus.githubaction.FastcampusGithubactionApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-28T09:35:34" hostname="SeongHoonui-MacBookPro.local" time="0.313">
   <properties/>
-  <testcase name="contextLoads()" classname="dev.be.fastcampus.githubaction.FastcampusGithubactionApplicationTests" time="0.335"/>
-  <system-out><![CDATA[18:05:39.479 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [dev.be.fastcampus.githubaction.FastcampusGithubactionApplicationTests]: FastcampusGithubactionApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-18:05:39.507 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration dev.be.fastcampus.githubaction.FastcampusGithubactionApplication for test class dev.be.fastcampus.githubaction.FastcampusGithubactionApplicationTests
+  <testcase name="contextLoads()" classname="dev.be.fastcampus.githubaction.FastcampusGithubactionApplicationTests" time="0.313"/>
+  <system-out><![CDATA[18:35:33.835 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [dev.be.fastcampus.githubaction.FastcampusGithubactionApplicationTests]: FastcampusGithubactionApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+18:35:33.865 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration dev.be.fastcampus.githubaction.FastcampusGithubactionApplication for test class dev.be.fastcampus.githubaction.FastcampusGithubactionApplicationTests
 
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -14,9 +14,9 @@
 
  :: Spring Boot ::                (v3.3.8)
 
-2025-01-28T18:05:39.621+09:00  INFO 46091 --- [    Test worker] g.FastcampusGithubactionApplicationTests : Starting FastcampusGithubactionApplicationTests using Java 17.0.12 with PID 46091 (started by seonghoonlim in /Users/seonghoonlim/my project/fastcampus-githubaction)
-2025-01-28T18:05:39.621+09:00  INFO 46091 --- [    Test worker] g.FastcampusGithubactionApplicationTests : No active profile set, falling back to 1 default profile: "default"
-2025-01-28T18:05:39.921+09:00  INFO 46091 --- [    Test worker] g.FastcampusGithubactionApplicationTests : Started FastcampusGithubactionApplicationTests in 0.375 seconds (process running for 0.692)
+2025-01-28T18:35:33.983+09:00  INFO 46926 --- [    Test worker] g.FastcampusGithubactionApplicationTests : Starting FastcampusGithubactionApplicationTests using Java 17.0.12 with PID 46926 (started by seonghoonlim in /Users/seonghoonlim/my project/fastcampus-githubaction)
+2025-01-28T18:35:33.983+09:00  INFO 46926 --- [    Test worker] g.FastcampusGithubactionApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2025-01-28T18:35:34.313+09:00  INFO 46926 --- [    Test worker] g.FastcampusGithubactionApplicationTests : Started FastcampusGithubactionApplicationTests in 0.407 seconds (process running for 0.738)
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
